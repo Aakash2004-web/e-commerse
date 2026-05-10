@@ -1,1 +1,1 @@
-# e-commerse
+{ "recommendations": ["expo.vscode-expo-tools"] }
